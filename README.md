@@ -15,9 +15,7 @@ to show off, put your golfed solution into your directory.
 
 John Ousterhout (Tcl inventor) had a new idea for teaching software
 design, and he tried it out as [CS190: Software Design Studio](https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/index.php).
-He spoke about it at UC Berkeley:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ajFq31OV9Bk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[He spoke about it at UC Berkeley](https://www.youtube.com/embed/ajFq31OV9Bk).
 
 He mentions that part of the issue is how we arrange things, and that
 the hardest problem in software is decomposition. He mentions the seminal
