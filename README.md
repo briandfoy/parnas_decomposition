@@ -64,7 +64,7 @@ The goal is to generate all such combinations for all possible shifts
 in all the lines. Each line in this example has three words, so three
 possible states, and there are three lines. There should be 27 different
 line orderings. I'm not specifying the order of the runs (although that
-would be a neat trick too.
+would be a neat trick too).
 
 ## Possible constraints
 
