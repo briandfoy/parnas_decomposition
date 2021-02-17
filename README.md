@@ -14,14 +14,14 @@ to show off, put your golfed solution into your directory.
 ## Software Design Studio
 
 John Ousterhout (Tcl inventor) had a new idea for teaching software
-design, and he tried it out as [CS190: Software Design Studio](https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/index.php).
-[He spoke about it at UC Berkeley](https://www.youtube.com/embed/ajFq31OV9Bk).
+design, and he tried it out as [CS190: Software Design Studio](https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/index.php), and then
+[he spoke about it at UC Berkeley](https://www.youtube.com/embed/ajFq31OV9Bk).
 
 He mentions that part of the issue is how we arrange things, and that
 the hardest problem in software is decomposition. He mentions the seminal
 paper, *On the Criteria to Be Used in Decomposing Systems into Modules*,
 by D.L. Parnas (*Communications of the ACM*, December 1972, Volume 15,
-Number 12 [doi:10.1145/361598.361623](https://dl.acm.org/doi/10.1145/361598.361623)).
+Number 12 [doi:10.1145/361598.361623](https://dl.acm.org/doi/10.1145/361598.361623), on [archive.org](https://web.archive.org/web/20120217033144/http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf).
 
 In that paper, Parnas offers two solutions to this specification:
 
