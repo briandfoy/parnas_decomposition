@@ -87,6 +87,10 @@ Consider, for example, some things not in the problem description.
 * What happens if two lines have the same first word?
 * What happens if a line has no words?
 
+We don't need to handle these ideas. Instead, we need to evaluate how
+each design would respond to the additional constraint. Does one
+design make that easier?
+
 ## The decompositions
 
 Parnas offers two workable solutions, which he gives the prosaic names
