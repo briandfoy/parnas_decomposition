@@ -82,6 +82,11 @@ now (sorting a 1Gb file in place) were very important then:
 
 These factors impact each composition differently.
 
+Consider, for example, some things not in the problem description.
+
+* What happens if two lines have the same first word?
+* What happens if a line has no words?
+
 ## The decompositions
 
 Parnas offers two workable solutions, which he gives the prosaic names
