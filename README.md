@@ -4,12 +4,19 @@ This repo is a demonstration of the ideas in the [1972 Parnas paper on
 decomposition](https://dl.acm.org/doi/10.1145/361598.361623), hewing
 as close as possible to his original description. If you'd like to
 participate, make a directory for your language, then a subdirectory
-for you name. Under that, put your two solutions.
+for you name. Under that, put your two solutions, with a `run` file that
+kicks the whole thing off:
+
+	% ./LANG/USER/DESIGN/run < input.txt
+
+For example:
+
+	% ./perl/briandfoy/pipeline/run < input.txt
 
 The problem specification is simple, but you should avoid shortcuts
 that might solve the particular problem easier or better. The problem
 is simple so it doesn't distract from the architecture. If you'd like
-to show off, put your golfed solution into your directory.
+to show off anyway, that's fine; put your golfed solution into your directory.
 
 ## Software Design Studio
 
