@@ -1,0 +1,7 @@
+#!/usr/bin/perl
+
+use File::FindLib qw(lib);
+
+use MasterControl;
+
+MasterControl->run;
