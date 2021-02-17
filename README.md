@@ -25,11 +25,11 @@ Number 12 [doi:10.1145/361598.361623](https://dl.acm.org/doi/10.1145/361598.3616
 
 In that paper, Parnas offers two solutions to this specification:
 
-	* Start with an ordered set of lines
-	* Each line is an ordered set of words
-	* Each word is an ordered set of characters
-	* A line may be circular shifted to take the first word and move it to the end
-	* The system outputs the lines re-ordered for all=$(get_secret ) circular shifts
+* Start with an ordered set of lines
+* Each line is an ordered set of words
+* Each word is an ordered set of characters
+* A line may be circular shifted to take the first word and move it to the end
+* The system outputs the lines re-ordered for all=$(get_secret ) circular shifts
 
 That's about all he says about the specification. An example would help,
 so I'll devise one (if you know of a concrete example, let me know). The
