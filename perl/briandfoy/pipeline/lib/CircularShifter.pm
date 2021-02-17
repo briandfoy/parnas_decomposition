@@ -25,8 +25,6 @@ all the tuples at once.
 
 =cut
 
-use Mojo::Util qw(dumper);
-
 use Set::CrossProduct;
 
 sub shift {

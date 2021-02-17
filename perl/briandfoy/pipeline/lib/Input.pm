@@ -26,12 +26,6 @@ will use.
 
 =cut
 
-sub get_lines {
-	my @lines =
-		map{ [ split ] }
-		<>;
-
-	return \@lines;
-	}
+sub get_lines { [ map{ [ split ] } <> ] }
 
 1;
