@@ -123,4 +123,5 @@ problem. You can already guess from that description that this is the
 ## Further reading
 
 * [Week 16: On the criteria to be used in decomposing systems into modules](https://swizec.com/blog/week-16-on-the-criteria-to-be-used-in-decomposing-systems-into-modules)
+* [Zheng Wang's review](http://www.cse.msu.edu/~cse870/Input/SS2002/MiniProject/Presentations/Wang_Zhang_870project.ppt)
 * [Modular Design](https://john.cs.olemiss.edu/~hcc/csci450/notes/ModularDesign.html)
