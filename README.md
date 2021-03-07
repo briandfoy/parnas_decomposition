@@ -13,6 +13,11 @@ For example:
 
 	% ./perl/briandfoy/pipeline/run < input.txt
 
+Your solution can use the provided *input.txt* to produce the *sample-output.txt*.
+The *sample-output.txt* is not part of the specification and its ordering is
+not important. For you combination, you only need to order the lines for
+that circular shift.
+
 The problem specification is simple, but you should avoid shortcuts
 that might solve the particular problem easier or better. The problem
 is simple so it doesn't distract from the architecture. If you'd like
