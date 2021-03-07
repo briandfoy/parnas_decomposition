@@ -125,3 +125,8 @@ problem. You can already guess from that description that this is the
 * [Week 16: On the criteria to be used in decomposing systems into modules](https://swizec.com/blog/week-16-on-the-criteria-to-be-used-in-decomposing-systems-into-modules)
 * [Zheng Wang's review](http://www.cse.msu.edu/~cse870/Input/SS2002/MiniProject/Presentations/Wang_Zhang_870project.ppt)
 * [Modular Design](https://john.cs.olemiss.edu/~hcc/csci450/notes/ModularDesign.html)
+* [Revealing the Secrets of David Parnas](https://john.cs.olemiss.edu/~hcc/researchMethods/notes/ClassicParnas/ACMannotated/ClassicParnasRevisionAnnotated.pdf)
+* [Hiding Assumptions and Parnas Partitioning](http://jodypaul.com/SWE/HAL/hal.html)
+* [On the Design and Development of Program Families](https://www.researchgate.net/publication/3188975_On_the_Design_and_Development_of_Program_Families/link/55956a8008ae21086d2067f9/download)
+* [Revealing the Secrets of David Parnas](https://john.cs.olemiss.edu/~hcc/researchMethods/notes/ClassicParnas/ACMannotated/ClassicParnasRevisionAnnotated.pdf)
+* []()
